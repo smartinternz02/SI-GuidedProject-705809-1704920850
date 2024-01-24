@@ -1,0 +1,4 @@
+{"testCaseName":"Test Cases/TC_Amazon_SearchBar_003","testCaseId":"Test Cases/TC_Amazon_SearchBar_003","iterationVariableName":"","bindedValues":{"item":"\u0027Laptops\u0027","category":"\u0027search-alias\u003dcomputers-intl-ship\u0027"}}
+{"testCaseName":"Test Cases/TC_Amazon_SearchBar_003","testCaseId":"Test Cases/TC_Amazon_SearchBar_003","iterationVariableName":"","bindedValues":{"item":"\u0027Television\u0027","category":"\u0027search-alias\u003delectronics-intl-ship\u0027"}}
+{"testCaseName":"Test Cases/TC_Amazon_SearchBar_003","testCaseId":"Test Cases/TC_Amazon_SearchBar_003","iterationVariableName":"","bindedValues":{"item":"\u0027Hp\u0027","category":"\u0027search-alias\u003dcomputers-intl-ship\u0027"}}
+{"testCaseName":"Test Cases/TC_Amazon_SearchBar_003","testCaseId":"Test Cases/TC_Amazon_SearchBar_003","iterationVariableName":"","bindedValues":{"item":"\u0027Novels\u0027","category":"\u0027search-alias\u003ddeals-intl-ship\u0027"}}

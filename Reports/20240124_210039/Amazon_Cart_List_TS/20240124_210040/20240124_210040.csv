@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Cart_List_TS,Chrome 121.0.0.0,,,24-01-2024 21:02:54,24-01-2024 21:03:39,45.090s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Cart_List_006,Chrome 121.0.0.0,,,24-01-2024 21:02:54,24-01-2024 21:03:39,44.951s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,24-01-2024 21:02:54,24-01-2024 21:02:56,1.637s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,24-01-2024 21:02:56,24-01-2024 21:03:10,14.240s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,24-01-2024 21:03:10,24-01-2024 21:03:15,5.101s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon Sign-In/input_email""), ""bhritik39@gmail.com"")",Chrome 121.0.0.0,,,24-01-2024 21:03:15,24-01-2024 21:03:16,1.264s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,24-01-2024 21:03:16,24-01-2024 21:03:19,2.226s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon Sign-In/input_password""), ""aeHFOx8jV/A="")",Chrome 121.0.0.0,,,24-01-2024 21:03:19,24-01-2024 21:03:20,1.013s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,24-01-2024 21:03:20,24-01-2024 21:03:20,0.355s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon.com. Spend less. Smile more/span_7""))",Chrome 121.0.0.0,,,24-01-2024 21:03:20,24-01-2024 21:03:34,14.269s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon.com Shopping Cart/span_Qty5""))",Chrome 121.0.0.0,,,24-01-2024 21:03:34,24-01-2024 21:03:35,0.800s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon.com Shopping Cart/a_5""))",Chrome 121.0.0.0,,,24-01-2024 21:03:35,24-01-2024 21:03:36,0.563s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon.com Shopping Cart/span_Qty1""))",Chrome 121.0.0.0,,,24-01-2024 21:03:36,24-01-2024 21:03:38,2.393s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Cart_List_OR/Page_Amazon.com Shopping Cart/a_0 (Delete)""))",Chrome 121.0.0.0,,,24-01-2024 21:03:38,24-01-2024 21:03:39,0.597s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,24-01-2024 21:03:39,24-01-2024 21:03:39,0.250s,PASSED
