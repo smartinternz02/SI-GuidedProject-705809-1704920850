@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Registration_SAT_TS,Chrome 121.0.0.0,,,24-01-2024 21:31:09,24-01-2024 21:31:35,26.125s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Registration_009,Chrome 121.0.0.0,,,24-01-2024 21:31:21,24-01-2024 21:31:35,14.453s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,24-01-2024 21:31:21,24-01-2024 21:31:26,5.675s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon Sign-In/a_Create your Amazon account""))",Chrome 121.0.0.0,,,24-01-2024 21:31:26,24-01-2024 21:31:29,2.546s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon Registration/input_customerName""), ""Rohan"")",Chrome 121.0.0.0,,,24-01-2024 21:31:29,24-01-2024 21:31:30,1.280s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon Registration/input_email""), ""kotar91449@trackden.com"")",Chrome 121.0.0.0,,,24-01-2024 21:31:30,24-01-2024 21:31:31,0.644s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon Registration/input_password""), ""qeJ0sjJnwEs="")",Chrome 121.0.0.0,,,24-01-2024 21:31:31,24-01-2024 21:31:31,0.378s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon Registration/input_passwordCheck""), ""qeJ0sjJnwEs="")",Chrome 121.0.0.0,,,24-01-2024 21:31:31,24-01-2024 21:31:32,0.598s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Registration_SAT_OR/Page_Amazon Registration/inputcontinue""))",Chrome 121.0.0.0,,,24-01-2024 21:31:32,24-01-2024 21:31:35,3.218s,PASSED

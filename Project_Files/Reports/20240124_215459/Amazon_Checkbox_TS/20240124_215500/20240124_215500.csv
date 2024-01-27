@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Checkbox_TS,Chrome 121.0.0.0,,,24-01-2024 21:57:13,24-01-2024 21:57:54,41.149s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Checkbox_007,Chrome 121.0.0.0,,,24-01-2024 21:57:13,24-01-2024 21:57:54,40.956s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,24-01-2024 21:57:13,24-01-2024 21:57:19,5.722s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,24-01-2024 21:57:19,24-01-2024 21:57:20,0.920s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,24-01-2024 21:57:20,24-01-2024 21:57:24,4.279s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,24-01-2024 21:57:24,24-01-2024 21:57:38,13.568s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon Sign-In/input_email""), ""bhritik39@gmail.com"")",Chrome 121.0.0.0,,,24-01-2024 21:57:38,24-01-2024 21:57:39,1.212s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,24-01-2024 21:57:39,24-01-2024 21:57:41,2.095s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon Sign-In/input_password""), ""aeHFOx8jV/A="")",Chrome 121.0.0.0,,,24-01-2024 21:57:41,24-01-2024 21:57:42,0.988s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,24-01-2024 21:57:42,24-01-2024 21:57:42,0.327s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon.com Shopping Cart/span_8""))",Chrome 121.0.0.0,,,24-01-2024 21:57:42,24-01-2024 21:57:50,8.103s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon.com Shopping Cart/i_a-icon a-icon-checkbox""))",Chrome 121.0.0.0,,,24-01-2024 21:57:50,24-01-2024 21:57:51,0.775s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Checkbox_OR/Page_Amazon.com Shopping Cart/i_a-icon a-icon-checkbox_1""))",Chrome 121.0.0.0,,,24-01-2024 21:57:51,24-01-2024 21:57:54,2.643s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,24-01-2024 21:57:54,24-01-2024 21:57:54,0.209s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,24-01-2024 21:57:54,24-01-2024 21:57:54,0.009s,PASSED

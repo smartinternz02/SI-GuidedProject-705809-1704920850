@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Login_TS,Chrome 121.0.0.0,,,24-01-2024 19:07:22,24-01-2024 19:08:09,46.891s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Login_001,Chrome 121.0.0.0,,,24-01-2024 19:07:22,24-01-2024 19:08:09,46.569s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,24-01-2024 19:07:23,24-01-2024 19:07:25,2.679s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,24-01-2024 19:07:25,24-01-2024 19:07:37,11.387s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,24-01-2024 19:07:37,24-01-2024 19:07:44,7.561s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign-In/input_email""), ""bhritik39@gmail.com"")",Chrome 121.0.0.0,,,24-01-2024 19:07:44,24-01-2024 19:07:46,1.875s,PASSED
+"verifyCheckpoint(findCheckpoint(""Checkpoints/Checkpoint_1""), false)",Chrome 121.0.0.0,,,24-01-2024 19:07:46,24-01-2024 19:07:46,0.092s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,24-01-2024 19:07:46,24-01-2024 19:07:52,5.801s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign-In/input_password""), ""aeHFOx8jV/A="")",Chrome 121.0.0.0,,,24-01-2024 19:07:52,24-01-2024 19:07:53,0.614s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,24-01-2024 19:07:53,24-01-2024 19:07:53,0.469s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, Hritik""))",Chrome 121.0.0.0,,,24-01-2024 19:07:53,24-01-2024 19:08:08,14.250s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Your Account/h1_Your Account""))",Chrome 121.0.0.0,,,24-01-2024 19:08:08,24-01-2024 19:08:08,0.912s,PASSED
+"verifyCheckpoint(findCheckpoint(""Checkpoints/Checkpoint_1""), false)",Chrome 121.0.0.0,,,24-01-2024 19:08:08,24-01-2024 19:08:08,0.015s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,24-01-2024 19:08:08,24-01-2024 19:08:09,0.374s,PASSED
