@@ -37,7 +37,8 @@ To accomplish this, we have to complete all the activities listed below:
 </ol>
 
 <h1>Project structure:</h1>
-![image](https://github.com/smartinternz02/SI-GuidedProject-705809-1704920850/assets/44370586/feeb2a02-524a-4da5-b6fd-caca3cef6d07)
+<img src="https://github.com/smartinternz02/SI-GuidedProject-705809-1704920850/assets/44370586/feeb2a02-524a-4da5-b6fd-caca3cef6d07">
+
 
 <h1>Important link</h1>
 Full  project link : https://github.com/hritikbhattacharya/Amazon_Application_Testing
